@@ -6,7 +6,7 @@ const getSymbol = (text, index) => {
           ans = text[index];
       }
       return ans;
-};
+}
 
 
 const removeDigit = (num) => {
