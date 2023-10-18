@@ -2,7 +2,7 @@ name: check-action
 on:
   push:
     branches:
-      - exercise_01
+      - main
   pull_request:
     branches:
       - 'exercise_01'
